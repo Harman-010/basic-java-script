@@ -1,0 +1,9 @@
+
+
+Name="Harman" 
+let Age=5;
+
+if (Age>18) {
+console.log("u are a adult")
+} else { (Age < 18) 
+console.log ('u are a minor'); }
